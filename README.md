@@ -1,8 +1,9 @@
-# Orchid Varen
+# Orchid Raven
 
-An e-commerce website where a user can purchase flowers and gardening essentials
+An e-commerce website where a user can purchase flowers and gardening essentials --
+Features fully functional cart and checkout system.
 
-Creacted by:
+Developed by:
 Christina Armstrong
 Jeetkumar Desai
 Roger Palabasan
